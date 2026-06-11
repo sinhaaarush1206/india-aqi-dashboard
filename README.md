@@ -1,7 +1,7 @@
 # 🌫️ India Air Quality Dashboard (2014–2025)
 ### Power BI · Data Analysis · Environmental Analytics
 
-![Dashboard Preview](screenshots/page1_national_overview.png)
+![Dashboard Preview](page1_national_overview.png)
 
 ---
 
