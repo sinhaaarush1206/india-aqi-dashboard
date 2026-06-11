@@ -100,8 +100,8 @@ during the audit phase of this project.
 | File | Description |
 |------|-------------|
 | India_AQI_Dashboard.pbix | Main Power BI report |
-| data/india_air_quality_2014_2025.csv | Source dataset |
-| screenshots/ | Dashboard page previews |
+| india_air_quality_2014_2025.csv | Source dataset |
+| screenshots | Dashboard page previews |
 | README.md | This file |
 
 ---
