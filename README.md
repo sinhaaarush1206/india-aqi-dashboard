@@ -62,7 +62,7 @@ industrial growth, deforestation, and CO2 emissions.
 
 ## 🗄️ Data Model
 
-![Star Schema](screenshots/data_model.png)
+![Star Schema](data_model.png)
 
 Star schema with three tables:
 - Fact_AQI — 20,592 rows, 23 columns
